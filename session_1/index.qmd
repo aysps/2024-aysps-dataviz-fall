@@ -50,7 +50,7 @@ Workshop materials:
 Other resources:
 
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science*](https://r4ds.hadley.nz/), chapter 1: ["Data visualization"](https://r4ds.hadley.nz/data-visualize)
-- Andrew Heiss, [Data Visualization (PMAP 8551)](https://datavizf23.classes.andrewheiss.com/)
+- Andrew Heiss, [Data Visualization (PMAP 8551)](https://datavizf24.classes.andrewheiss.com/)
 
 ## [Lunch]{.text-secondary} [12:00–1:00 PM]{.time .float-end}
 
