@@ -67,6 +67,7 @@ Workshop materials:
 
 Other resources:
 
+- [Animated grouping and summarizing](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/)
 - Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, [*R for Data Science*](https://r4ds.hadley.nz/), chapter 3: ["Data transformation"](https://r4ds.hadley.nz/data-transform)
 
 ## [Break]{.text-secondary} [3:15–3:30 PM]{.time .float-end}
